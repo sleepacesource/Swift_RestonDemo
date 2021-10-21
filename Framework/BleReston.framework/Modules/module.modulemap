@@ -1,0 +1,6 @@
+framework module BleReston {
+  umbrella header "BleReston.h"
+
+  export *
+  module * { export * }
+}
